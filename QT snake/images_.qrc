@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>images/apple.png</file>
+        <file>images/background.png</file>
+        <file>images/background_1.png</file>
+        <file>images/dot.png</file>
+        <file>images/dot_1.png</file>
+        <file>images/dot_2.png</file>
+        <file>images/gameover.png</file>
+        <file>images/head.png</file>
+        <file>images/head_1.png</file>
+        <file>images/head_2.png</file>
+        <file>images/pause.png</file>
+        <file>images/skull.png</file>
+    </qresource>
+</RCC>
